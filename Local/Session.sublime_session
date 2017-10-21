@@ -1,0 +1,1164 @@
+{
+	"folder_history":
+	[
+		"/D/OpenServer/domains/mobishop/wp-content/themes/mobi",
+		"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika",
+		"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce"
+	],
+	"last_version": 3143,
+	"last_window_id": 13,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tra",
+						"transition"
+					],
+					[
+						"the_co",
+						"the_content\tWP Function"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"WP_NAV",
+						"WP_Nav_Menu_Widget-update\tWP Class Method"
+					],
+					[
+						"wp_nav",
+						"wp_nav_menu_args\tWP Filter Name"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"ca",
+						"cart_bg.png\tw:1 h:40"
+					],
+					[
+						"tt",
+						"tt:c\ttext-transform:capitalize"
+					],
+					[
+						"have",
+						"have_posts\tWP Function"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"pagina",
+						"paginate_links"
+					],
+					[
+						"paginat",
+						"paginate_links\tWP Filter Name"
+					],
+					[
+						"pag",
+						"paginate_links\tWP Filter Name"
+					],
+					[
+						"back",
+						"background-color"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/OpenServer/domains/WpFint/wp-content/themes/WpFint/about-page.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/main-page.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/archive.php",
+				"/D/Web Developing/WordPress/functions(Дополняемый).php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/template-parts/content-page.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/single.php",
+				"/D/Web Developing/WordPress/Комманды/Commands.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/sidebar.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/page.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/header.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/footer.php",
+				"/D/OpenServer/domains/evrotehnika/wp-includes/widgets.php",
+				"/D/Web Developing/WordPress/Хлебные крошки Breadcrumbs(C пддержкой WooCommerce).php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Убираем Хлебные Крошки.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/header.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/global/breadcrumb.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/sidebar-banner.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/index.html",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/template-parts/content-search.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/main-page.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/index.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/style.css",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/js/common.js",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/functions.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/twentyseventeen/header.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/twentyseventeen/index.php",
+				"/D/OpenServer/domains/evrotehnika/wp-includes/class-wp-theme.php",
+				"/D/OpenServer/domains/evrotehnika/wp-config.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/inc/woocommerce.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/123/css/main.min.css",
+				"/D/Downloads/evrotehnika/dist/js/common.js",
+				"/D/Downloads/evrotehnika/dist/js/scripts.min.js",
+				"/D/Downloads/evrotehnika/app/js/common.js",
+				"/D/Downloads/evrotehnika/app/js/common.min.js",
+				"/D/Downloads/evrotehnika/app/index.html",
+				"/D/Downloads/evrotehnika/gulpfile.js",
+				"/D/Downloads/evrotehnika/app/sass/_fonts.sass",
+				"/D/Downloads/evrotehnika/app/sass/_vars.sass",
+				"/D/Downloads/evrotehnika/app/sass/_libs.sass",
+				"/D/Downloads/evrotehnika/app/sass/main.sass",
+				"/D/Downloads/evrotehnika/dist/css/main.min.css",
+				"/D/Web Developing/JS/owlcarousel(Слайдер)/EXAMPLE.js",
+				"/D/Downloads/evrotehnika/app/css/main.min.css",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Корзина с AJAX и Логином(Правильная корзина).php",
+				"/D/OpenServer/domains/DJ6/app/index.html",
+				"/D/Web Developing/JS/MMenu(Выдвигающиеся меню для моб)/EXAMPLE.js",
+				"/D/Downloads/jquery.mmenu/wrappers/wordpress/jquery.mmenu.wordpress.js",
+				"/D/Downloads/evrotehnika/app/libs/mmenu/jquery.mmenu.all.js",
+				"/D/OpenServer/domains/DJ6/app/js/common.js",
+				"/D/OpenServer/domains/DJ6/gulpfile.js",
+				"/D/OpenServer/domains/DJ6/app/js/libs.js",
+				"/D/Web Developing/JS/Мобильное меню(С Анимированым крестиком)/style.sass",
+				"/D/Web Developing/JS/Мобильное меню(С Анимированым крестиком)/common.js",
+				"/D/Web Developing/JS/Мобильное меню(С Анимированым крестиком)/index.html",
+				"/D/Web Developing/JS/Разное.js",
+				"/D/Web Developing/JS/MMenu(Выдвигающиеся меню для моб)/gulpfile.js",
+				"/D/Downloads/evrotehnika/app/libs/superfish/superfish.css",
+				"/D/Web Developing/JS/superfish(Меню)/Цвет стрелочек.sass",
+				"/D/Web Developing/JS/superfish(Меню)/EXAMPLE.js",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/js/common.js",
+				"/D/Web Developing/Mobishop/app/js/common.js",
+				"/D/Downloads/evrotehnika/app/libs/font-awesome/css/font-awesome.min.css",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/searchform.php",
+				"/D/Downloads/evrotehnika/app/ht.access",
+				"/D/Downloads/evrotehnika/app/sass/_mixins/_font-face.sass",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Выводы и разное.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/inc/woocommerce.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/woocommerce.css",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/ПОДЫТОГ убираем.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/style.css",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/rating.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/footer.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/woocommerce/content-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-dashboard.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/archive-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/includes/wc-template-functions.php",
+				"/D/OpenServer/domains/mobishop/wp-includes/functions.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/related.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/product-thumbnails.php",
+				"/D/OpenServer/domains/mobishop/wp-includes/class-wp-theme.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/core/templates/after-content.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/core/main.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/functions.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/content-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/woocommerce/single-product/up-sells.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/woocommerce/content-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/woocommerce/content-single-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/woocommerce/single-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product-reviews.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/alhena-lite/woocommerce/single-product-reviews.php",
+				"/D/Web Developing/WordPress/Plugins/moo-woo-privat24/woo-privat24/pryvat24.php",
+				"/D/Downloads/moo-woo-privat24/moo-woo-privat24/woo-privat24/pryvat24.php",
+				"/D/Web Developing/Mobishop/app/index.html",
+				"/D/Web Developing/Mobishop/gulpfile.js",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/global/breadcrumb.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/search.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/template-parts/content-search.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/taxonomy-product_tag.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/product-searchform.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Атрибуты в карточке товаров.php",
+				"/D/Web Developing/WordPress/РАСПЕЧАТКА.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/content-single-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/page.php",
+				"/D/Web Developing/JS/stickUp(Меню сверху при скроле)/stickUp.js",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/includes/wc-template-hooks.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Меняем денежный значек.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Включаем поддержку ZOOM LIGHTBOX GALLERY в тему.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Убираем вторую цену Вариативного товара.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Кастомизируем стандартные хуки.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/woocommerce/loop/add-to-cart.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/woocommerce/wc-template-functions.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/wc-template-functions.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/woocommerce/myaccount/form-login.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/includes/wc-widget-functions.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/global/wrapper-end.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/loop/result-count.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/loop/price.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/loop/orderby.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/loop/sale-flash.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/loop/no-products-found.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/content-product_cat.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/title.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/loop/loop-start.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/review-rating.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/photoswipe.php"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".left-menu",
+					".content",
+					"wp_get_sidebars_widgets",
+					"widget-title",
+					"../libs/font-awesomefonts",
+					"/fonts",
+					"../fonts",
+					"<?php get_template_directory_uri(); ?>/",
+					"get_theme",
+					"item",
+					"../fonts",
+					"$products_on_sale",
+					"woocommerce_get_order_item_totals",
+					"loop_shop_per_page",
+					"mobi_woocommerce_products_per_page",
+					"WC_Product::list_attributes",
+					"wc_display_product_attributes",
+					"WC_Product::list_attributes",
+					"wc_get_star_rating_html",
+					"star-rating",
+					"woocommerce_content()",
+					"searchform",
+					"search-form",
+					"woocommerce_shop_loop_item_title",
+					"woocommerce_before_shop_loop_item",
+					"woocommerce_template_loop_product_link_open",
+					"pa_",
+					"admin",
+					"wc-product-gallery-zoom",
+					"table class=\"variations\"",
+					"variations",
+					"woocommerce_single_product_summary",
+					"woocommerce_after_shop_loop_item",
+					"woocommerce_get_product_thumbnail",
+					"woocommerce_template_loop_product_thumbnail",
+					"woocommerce_template_loop_product_title",
+					"woocommerce_shop_loop_item_title",
+					"woocommerce_before_shop_loop_item",
+					"woocommerce_after_shop_loop_item",
+					"woocommerce_template_loop_product_link_close",
+					"data-product_sku",
+					"woocommerce_template_loop_product_link_open",
+					"class=\"woocommerce-LoopProduct-link",
+					"class=\"woocommerce-loop-product__title\"",
+					"class=\"onsale\"",
+					"woocommerce_before_shop_loop_item",
+					"archive-product.php",
+					"woocommerce_sidebar",
+					"woocommerce_template_loop_product_link_open",
+					"woocommerce_before_shop_loop_item",
+					"do_action( 'woocommerce_before_shop_loop_item' )",
+					"social",
+					"sf-menu",
+					"your-theme-slug",
+					"woocommerce_account_content",
+					"woocommerce_login_form",
+					"my_account",
+					"customer_login",
+					"goods-recomendet",
+					"select_style",
+					"RedirectMatch Permanent",
+					"<ifmodule mod_rewrite.c>",
+					"goods-recomendet",
+					"featured_products",
+					"../",
+					"separator",
+					"../",
+					"<?php get_template_directory_uri(); ?>",
+					"img/",
+					"get_template_directory_uri()",
+					"img/",
+					".sf-with-ul",
+					"after",
+					"anchorClass",
+					"sf",
+					"+font-face(\"contra\", \"../fonts/contra/contra\")\n",
+					"<?php echo $map_id; ?>",
+					"marker_url",
+					"img/",
+					"#map",
+					"menu-primary",
+					"#menu-primary",
+					"992",
+					".owl-item",
+					"@media",
+					".owl-carousel .owl-item img",
+					"span.menu",
+					".team-grid",
+					".blog-left h3",
+					"mod_headers",
+					"http://aptes.loc",
+					"feedback",
+					"feedback-form",
+					"header-feedback-form",
+					".res",
+					"'next_text'    => 'next',"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"fonts",
+					"/fonts",
+					"fonts",
+					"<?php echo get_template_directory_uri(); ?>/",
+					"get_template",
+					"slide",
+					"../libs/font-awesome/fonts",
+					"mobi",
+					"/",
+					" ",
+					"",
+					"<?php echo get_template_directory_uri(); ?>",
+					"<?php echo get_template_directory_uri(); ?>/img/",
+					"<?php get_template_directory_uri(); ?>/img/",
+					"<?phpget_template_directory_uri(); ?>/img/",
+					"get_template_directory_uri(); ",
+					"<?php get_template_directory_uri(); ?>/img/",
+					"<?php get_template_directory_uri()?>/img/",
+					"1",
+					"../images/",
+					"http://aerolitic-crime.000webhostapp.com"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 154.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"border"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"v",
+						"visibility"
+					],
+					[
+						"tra",
+						"transition"
+					],
+					[
+						"tr",
+						"transition"
+					],
+					[
+						"remo",
+						"remove_action\tWP Function"
+					],
+					[
+						"the_co",
+						"the_content\tWP Function"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"WP_NAV",
+						"WP_Nav_Menu_Widget-update\tWP Class Method"
+					],
+					[
+						"wp_nav",
+						"wp_nav_menu_args\tWP Filter Name"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"ca",
+						"cart_bg.png\tw:1 h:40"
+					],
+					[
+						"tt",
+						"tt:c\ttext-transform:capitalize"
+					],
+					[
+						"have",
+						"have_posts\tWP Function"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"pagina",
+						"paginate_links"
+					],
+					[
+						"paginat",
+						"paginate_links\tWP Filter Name"
+					],
+					[
+						"pag",
+						"paginate_links\tWP Filter Name"
+					],
+					[
+						"back",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Lord/AppData/Local/Temp/fz3temp-2/single.php",
+					"settings":
+					{
+						"buffer_size": 1854,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Lord/AppData/Local/Temp/fz3temp-2/content.php",
+					"settings":
+					{
+						"buffer_size": 1572,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Lord/AppData/Local/Temp/fz3temp-2/main-page.php",
+					"settings":
+					{
+						"buffer_size": 3223,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "pacl",
+				"selected_items":
+				[
+					[
+						"pacl",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 430.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi"
+			],
+			"file_history":
+			[
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/meta-boxes.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/archive.php",
+				"/D/Web Developing/WordPress/WP_QUERY и вывод Информации.php",
+				"/D/Web Developing/WordPress/Таксономии(Архив,прочее)/archive-artbt_sevices.php",
+				"/D/Web Developing/WordPress/Таксономии(Архив,прочее)/Архив таксономий(категорий)для Custom_post.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/custom-post-type-services.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/main-page.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/style.css",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/main-page.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/footer.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/WooCommerce ПЛАГИНЫ.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/header.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/header.php",
+				"/D/Web Developing/JS/Google Maps/js/main.js",
+				"/D/Web Developing/JS/Google Maps/index.html",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/functions.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/main.js",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/contact-page.php",
+				"/D/Downloads/google-website-translator.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/header.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/google-language-translator.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/common.class.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/admin.class.js",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/common.class.js",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/base.class.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/main.class.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/google-website-translator.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/widget.php",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/admin.js",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/toolbar.js",
+				"/C/Users/Lord/AppData/Local/Temp/fz3temp-2/load-toolbar.js",
+				"/D/Downloads/fullPage.js-master/tests/functions.js",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/functions.php",
+				"/D/Web Developing/WordPress/Plugins/option-tree/FAQ/meta-boxes.php",
+				"/D/Web Developing/WordPress/Plugins/option-tree/FAQ/theme-options.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/functions/theme-options.php",
+				"/D/Web Developing/WordPress/functions(Дополняемый).php",
+				"/D/Web Developing/WordPress/Plugins/option-tree/FAQ/Тип - Галерея(Пример вывода).php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/functions/meta-boxes.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/option-tree/FAQ/theme-options.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/option-tree/includes/ot-meta-box-api.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/option-tree/includes/ot-settings-api.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/option-tree/ot-loader.php",
+				"/D/Web Developing/JS/UniMail(Скрипт отправки почты)/mail.php",
+				"/D/Web Developing/JS/UniMail(Скрипт отправки почты)/EXAMPLE.js",
+				"/D/Downloads/testform3/submit.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/js/common.js",
+				"/D/Downloads/testform3/js/script.js",
+				"/D/Downloads/testform3/index.php",
+				"/D/Downloads/testform3/js/jquery.form-validator.min.js",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/vg-betashop/woocommerce/cart/mini-cart.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/vg-betashop/woocommerce/cart/cart.php",
+				"/D/Downloads/Плагины/vg-betashop/woocommerce/content-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woo-brand/main.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/woocommerce.css",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/iconic-woothumbs/iconic-woothumbs.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/style.css",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/cart/cart.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/page.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/archive-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/content-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/content-single-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/cart/cart-empty.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/cart/proceed-to-checkout-button.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/cart/mini-cart.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/cart/cart-item-data.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product-reviews.php",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/woocommerce/archive-product.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/yith-woocommerce-ajax-product-filter-premium/widgets/class.yith-wcan-list-price-filter-widget.php",
+				"/D/Downloads/evrotehnika/app/index.html",
+				"/D/OpenServer/domains/WpSitePortfolio/wp-content/themes/MyTheme/index123.html",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Корзина с AJAX и Логином(Правильная корзина).php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/functions.php",
+				"/D/Web Developing/JS/Прелодер(Jewelery)/style.css",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/side-cart-woocommerce/xoo-wsc.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/side-cart-woocommerce/public/class-xoo-wsc-public.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/side-cart-woocommerce/public/index.php",
+				"/D/Web Developing/JS/Прелодер(Jewelery)/script.js",
+				"/D/Web Developing/JS/Прелодер(Jewelery)/index.html",
+				"/D/Web Developing/JS/Разное.js",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Категории открываются при ховере.js",
+				"/D/Web Developing/JS/Isotop(Фильтрация и сортировка)/Активация.js",
+				"/D/Web Developing/JS/МЕТОДЫ ВЫЗОВА ФУНКЦИЙ(jQuery,$).js",
+				"/D/Downloads/preloader/style.css",
+				"/D/Downloads/preloader/script.js",
+				"/D/Downloads/preloader/index.html",
+				"/C/Users/Lord/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/Lord/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woo-product-gallery-slider/assets/js/jquery.prettyPhoto.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woo-product-images-slider/assets/js/wpis.front.js",
+				"/D/.htaccess",
+				"/D/Web Developing/JS/Masonry(вывод HTML в виде кирпичной кладки)/Пример вызова скрипта.js",
+				"/D/OpenServer/domains/mobishop/wp-content/themes/mobi/js/common.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce-grid-list-toggle/assets/js/jquery.gridlistview.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/grid-list-toggle-for-woocommerce/js/phoen_gridlist.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce-grid-list-toggle/assets/js/jquery.gridlistview.min.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce-grid-list-toggle/woocommerce-grid-list-toggle.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce-grid-list-toggle/assets/js/jquery.cookie.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/archive-product.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Кастомизируем стандартные хуки.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/woocommerce/single-product/meta.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/includes/wc-template-hooks.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/includes/wc-template-functions.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/single-product/product-image.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/content-single-product.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/single-product/product-thumbnails.php",
+				"/D/OpenServer/domains/mobile/index.html",
+				"/D/Downloads/sitecake/sitecake.php",
+				"/D/Downloads/sitecake/sitecake/2.2.9/server/admin.php",
+				"/D/OpenServer/domains/mobile/textolite/textolite.php",
+				"/D/OpenServer/domains/mobile/textolite/textolite.js",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/woocommerce/single-product/tabs/description.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/woocommerce/single-product/tabs/additional-information.php",
+				"/D/OpenServer/domains/mobishop/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variable.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/single-product/share.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/woocommerce/single-product/tabs/tabs.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Атрибуты в карточке товаров.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/single-product/meta.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Соц кнопки в Товаре.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Выводы и разное.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Табы одной строкой.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/themes/Evrotehnika/woocommerce/single/tabs/tabs.php",
+				"/D/Web Developing/WordPress/Plugins/WooCommerce/Убрать любую вкладку в товаре.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/single-product.php",
+				"/D/OpenServer/domains/evrotehnika/wp-content/plugins/woocommerce/templates/global/wrapper-start.php"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"serv",
+					"#e1223b",
+					"Phone",
+					"Yeronga QLD 4104, Australia",
+					"ul",
+					"PrisnaGWT.translate",
+					"prisna-gwt-flag-container",
+					"google_language_translator",
+					"targetLanguage",
+					"skiptranslate",
+					"goog-te-gadget",
+					"goog-te-combo",
+					"select",
+					"goog-te-combo",
+					"pw_stick_brands",
+					"поиск",
+					"woocommerce_before_cart",
+					"ha_style",
+					"e",
+					"jQuery",
+					"gridcookie",
+					"q_",
+					"pass",
+					"flex-control-thumbs",
+					"woocommerce_show_product_thumbnails",
+					"woocommerce_show_product_images",
+					"woocommerce_template_single_add_to_cart",
+					"variations_form",
+					"woocommerce_share",
+					"woocommerce_template_single_sharing",
+					"woocommerce_template_single_meta",
+					"woocommerce_output_content_wrapper",
+					"woocommerce_before_single_product",
+					"woocommerce-tabs",
+					"cat-item",
+					"entry-title",
+					"fontawesome",
+					".left-menu",
+					".content",
+					"wp_get_sidebars_widgets",
+					"widget-title",
+					"../libs/font-awesomefonts",
+					"/fonts",
+					"../fonts",
+					"<?php get_template_directory_uri(); ?>/",
+					"get_theme",
+					"item",
+					"../fonts",
+					"$products_on_sale",
+					"woocommerce_get_order_item_totals",
+					"loop_shop_per_page",
+					"mobi_woocommerce_products_per_page",
+					"WC_Product::list_attributes",
+					"wc_display_product_attributes",
+					"WC_Product::list_attributes",
+					"wc_get_star_rating_html",
+					"star-rating",
+					"woocommerce_content()",
+					"searchform",
+					"search-form",
+					"woocommerce_shop_loop_item_title",
+					"woocommerce_before_shop_loop_item",
+					"woocommerce_template_loop_product_link_open",
+					"pa_",
+					"admin",
+					"wc-product-gallery-zoom",
+					"table class=\"variations\"",
+					"variations",
+					"woocommerce_single_product_summary",
+					"woocommerce_after_shop_loop_item",
+					"woocommerce_get_product_thumbnail",
+					"woocommerce_template_loop_product_thumbnail",
+					"woocommerce_template_loop_product_title",
+					"woocommerce_shop_loop_item_title",
+					"woocommerce_before_shop_loop_item",
+					"woocommerce_after_shop_loop_item",
+					"woocommerce_template_loop_product_link_close",
+					"data-product_sku",
+					"woocommerce_template_loop_product_link_open",
+					"class=\"woocommerce-LoopProduct-link",
+					"class=\"woocommerce-loop-product__title\"",
+					"class=\"onsale\"",
+					"woocommerce_before_shop_loop_item",
+					"archive-product.php",
+					"woocommerce_sidebar",
+					"woocommerce_template_loop_product_link_open",
+					"woocommerce_before_shop_loop_item",
+					"do_action( 'woocommerce_before_shop_loop_item' )",
+					"social",
+					"sf-menu",
+					"your-theme-slug",
+					"woocommerce_account_content",
+					"woocommerce_login_form",
+					"my_account",
+					"customer_login",
+					"goods-recomendet",
+					"select_style",
+					"RedirectMatch Permanent",
+					"<ifmodule mod_rewrite.c>",
+					"goods-recomendet",
+					"featured_products",
+					"../",
+					"separator",
+					"../",
+					"<?php get_template_directory_uri(); ?>",
+					"img/",
+					"get_template_directory_uri()",
+					"img/",
+					".sf-with-ul",
+					"after",
+					"anchorClass",
+					"sf",
+					"+font-face(\"contra\", \"../fonts/contra/contra\")\n",
+					"<?php echo $map_id; ?>",
+					"marker_url",
+					"img/",
+					"#map",
+					"menu-primary",
+					"#menu-primary",
+					"992",
+					".owl-item",
+					"@media",
+					".owl-carousel .owl-item img",
+					"span.menu",
+					".team-grid",
+					".blog-left h3",
+					"mod_headers",
+					"http://aptes.loc"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"#ff8400",
+					"Телефон",
+					"Киев, Проспект Победы 10",
+					"$",
+					"asd",
+					"fonts",
+					"/fonts",
+					"fonts",
+					"<?php echo get_template_directory_uri(); ?>/",
+					"get_template",
+					"slide",
+					"../libs/font-awesome/fonts",
+					"mobi",
+					"/",
+					" ",
+					"",
+					"<?php echo get_template_directory_uri(); ?>",
+					"<?php echo get_template_directory_uri(); ?>/img/",
+					"<?php get_template_directory_uri(); ?>/img/",
+					"<?phpget_template_directory_uri(); ?>/img/",
+					"get_template_directory_uri(); ",
+					"<?php get_template_directory_uri(); ?>/img/",
+					"<?php get_template_directory_uri()?>/img/",
+					"1",
+					"../images/",
+					"http://aerolitic-crime.000webhostapp.com"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\OpenServer\\domains\\mobishop\\wp-content\\themes\\mobi"
+				},
+				{
+					"path": "D:\\OpenServer\\domains\\mobishop\\wp-content\\plugins\\woocommerce"
+				},
+				{
+					"path": "D:\\OpenServer\\domains\\evrotehnika\\wp-content\\themes\\Evrotehnika"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Lord/AppData/Local/Temp/fz3temp-2/single.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1854,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 480.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Lord/AppData/Local/Temp/fz3temp-2/content.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1572,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1385,
+										1385
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 960.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Lord/AppData/Local/Temp/fz3temp-2/main-page.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3223,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2992,
+										2992
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1650.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,563,25,25,681",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 154.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
